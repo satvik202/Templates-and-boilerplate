@@ -30,15 +30,16 @@ double eps = 1e-12;
  
 
 void solve(){
- 
+
 }
-int main()
-{
+int main(){
+ 
  fast_cin();
  ll t;
  cin >> t;
  while(t--) {
-solve();
+  solve();
+  
  }
  return 0;
 }
